@@ -1,0 +1,22 @@
+body{background-color: rgb(56, 17, 96);}
+.img6{
+    width: 70px;
+    height: 60px;
+    position: relative;left: 1290px;
+    position: relative;top: 650px;
+}
+.middle-container{
+    text-align: center;
+    color: aliceblue;
+    padding: 50px;
+}
+.table{
+    position: relative;left: 500px;
+    
+}
+.h2{
+    color: tomato;
+}
+.p2{
+    position: relative;top: 50px;
+}
